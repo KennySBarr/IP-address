@@ -2,7 +2,7 @@
 <img src="https://imgur.com/a/XGeZj8M" alt="Linux Logo"/>
 </p>
 
-<h1> Searching and Previewing Files using Head, Tail, More, and Less</h1>
+<h1> Post Attack: Log Search IP Address Look up</h1>
 This tutorial outlines the use commands like head, tail, more, and less to preview files in the command line.<br />
 
 
