@@ -75,7 +75,7 @@ STEP 3: Run the command to determine which website had the most network connecti
  
    - Example: wc 1.com 2.com 3.com -w
  
-   - After using the command I came to the conclusion Peanutbuttery.com was the targeted site for the attack
+   - After using the command I came to the conclusion Peanutbuttery.net was the targeted site for the attack
   
 </p>
 <br />
